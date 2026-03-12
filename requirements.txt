@@ -12,4 +12,4 @@ openai==1.14.1
 tiktoken==0.5.2
 
 faiss-cpu==1.7.4
-selenium==4.21.0
+# selenium==4.21.0
